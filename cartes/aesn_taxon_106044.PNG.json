@@ -1,0 +1,42 @@
+{
+    "bbox":[
+        275986.41220499267,
+        6587273.753005671,
+        931767.2988738893,
+        7049401.223477041
+    ],
+    "cbnManager":"Ana\u00efs Just",
+    "contactInspire":null,
+    "contactName":"Ana\u00efs Just",
+    "dataOwner":"FCBN",
+    "dataState":"Termin\u00e9e",
+    "dimension":"210.0,297.0",
+    "dpi":"300",
+    "email":"anais.just@fcbn.fr",
+    "extension":"PNG",
+    "genealogyData":"v0",
+    "generationDate":"2016-11-24",
+    "keywords":[
+        "taxon",
+        "syntaxon",
+        "zone humide",
+        "agence de l'eau"
+    ],
+    "organizationCbn":"FCBN",
+    "projectDescription":"Cartes r\u00e9alis\u00e9es pour le projet AESN (taxons et syntaxons des zones humides)",
+    "projectModificationDate":"2016-11-18",
+    "projectName":"Cartes_AESN",
+    "projection":"EPSG:2154",
+    "rangeObservationEnd":"2016-11-18",
+    "rangeObservationStart":"2016-11-18",
+    "taxon":{
+        "cdref":"'106044'",
+        "name":"Limonium auriculiursifolium (Pourr.) Druce, 1928"
+    },
+    "thesaurusINSPIRE":"R\u00e9partition des esp\u00e8ces",
+    "thesaurusISO":"Environnement",
+    "updateFrequency":"annuelle",
+    "usageLimit":"Donn\u00e9es en cours de validation et d'int\u00e9gration par le r\u00e9seau des Conservatoires botaniques nationaux",
+    "versionNumber":"v2",
+    "weight":"1419"
+}
